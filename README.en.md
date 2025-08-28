@@ -8,7 +8,7 @@
 A **Pokédex for the first 151 Pokémon (Kanto region)** built with Angular standalone components and the [PokeAPI](https://pokeapi.co/).  
 Designed with best practices, UX care, and responsive layout.
 
-👉 **[Live Demo](https://YOUR-DEPLOY-LINK.com)**
+👉 **[Live Demo](https://pokedex-kanto-ten.vercel.app/)**
 
 ---
 
@@ -92,3 +92,4 @@ MIT
 ---
 
 ## 💡 Built with ❤️ using Angular and a passion for Pokémon.
+
