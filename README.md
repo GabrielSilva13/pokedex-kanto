@@ -30,11 +30,11 @@ O projeto foi construído com foco em boas práticas, UX e responsividade — pe
 
 ### Home
 
-![Home Screenshot](https://github.com/GabrielSilva13/pokedex-kanto/tree/master/screenshots/home.png)
+![Home Screenshot](https://github.com/GabrielSilva13/pokedex-kanto/blob/master/screenshots/home.png)
 
 ### Detalhes
 
-![Detail Screenshot](https://github.com/GabrielSilva13/pokedex-kanto/tree/master/screenshots/detail.png)
+![Detail Screenshot](https://github.com/GabrielSilva13/pokedex-kanto/blob/master/screenshots/detail.png)
 
 ---
 
@@ -110,5 +110,6 @@ MIT
 ---
 
 ## 💡 Feito com ❤️ usando Angular e muita paixão por Pokémon.
+
 
 
