@@ -30,11 +30,11 @@ O projeto foi construído com foco em boas práticas, UX e responsividade — pe
 
 ### Home
 
-![Home Screenshot](https://raw.githubusercontent.com/GabrielSilva13/pokedex-angular/main/screenshots/home.png)
+![Home Screenshot](https://raw.githubusercontent.com/GabrielSilva13/pokedex-angular/screenshots/home.png)
 
 ### Detalhes
 
-![Detail Screenshot](https://raw.githubusercontent.com/GabrielSilva13/pokedex-angular/main/screenshots/detail.png)
+![Detail Screenshot](https://raw.githubusercontent.com/GabrielSilva13/pokedex-angular/screenshots/detail.png)
 
 ---
 
@@ -110,3 +110,4 @@ MIT
 ---
 
 ## 💡 Feito com ❤️ usando Angular e muita paixão por Pokémon.
+
