@@ -10,7 +10,7 @@
 Uma **Pokédex da 1ª geração (Kanto)** feita em Angular standalone components, consumindo a [PokeAPI](https://pokeapi.co/).  
 O projeto foi construído com foco em boas práticas, UX e responsividade — perfeito para estudos ou como showcase de Angular.
 
-👉 **[Demo Online](https://SEU-LINK-DE-DEPLOY.com)**
+👉 **[Demo Online](https://pokedex-kanto-ten.vercel.app/)**
 
 ---
 
@@ -110,6 +110,7 @@ MIT
 ---
 
 ## 💡 Feito com ❤️ usando Angular e muita paixão por Pokémon.
+
 
 
 
